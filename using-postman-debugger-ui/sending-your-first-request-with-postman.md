@@ -1,10 +1,8 @@
----
-description: You can send requests in Postman to connect to APIs you are working with
----
-
 # Sending your first request with postman
 
 ## How it work?
+
+You can send requests in Postman to connect to APIs you are working with
 
 When you send a request, Postman will display the response received from the API server in a way that lets you examine, visualize, and if necessary troubleshoot it.
 
